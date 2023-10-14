@@ -1,0 +1,25 @@
+/* Reducir el espacio superior del section */
+img.logo {
+    width: 200px;
+    height: 60px; 
+}
+img.logo1 {
+    width: 50px;
+    height: 50px;
+}
+img.logoinstagram {
+    width: 90px;
+    height: 50px;
+}
+img.logox {
+    width: 50px;
+    height: 40px;
+}
+img.logoyoutube {
+    width: 50px;
+    height: 40px;
+}
+.custom-bg-color {
+    background-color: #0844a4; /* Tu color azul personalizado */
+}
+
